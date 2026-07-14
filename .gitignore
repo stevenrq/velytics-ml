@@ -3,9 +3,10 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .ruff_cache/
-models/
+/models/
 *.joblib
 .env
 .env.*
 !.env.example
+!.env.dev.example
 uv.lock.bak
